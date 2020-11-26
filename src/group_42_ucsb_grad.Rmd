@@ -1,0 +1,10 @@
+---
+title: "Group 42 UCSB domestic grad enrollment"
+author: "Joseph Kilgallen, Mariano Viz"
+date: "26/11/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
